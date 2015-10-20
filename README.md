@@ -12,4 +12,4 @@ $ composer install
 
 # Pagina web
 
-[simongonzalezcepeda.github.io/school](http://simongonzalezcepeda.github.io/School/)
+[simongonzalezcepeda.github.io](http://simongonzalezcepeda.github.io)
